@@ -5,8 +5,6 @@
 
 **References:** My project is inspired by the website: https://teamcoco.com/. The data and images from I borrowed from the website were used for education purposes only. 
 
-**Presentation Video Link:** https://drive.google.com/drive/folders/1rU7JXG45yPr5it6w_Q1SIn5tvYm3VB4t?usp=sharing
-
 ## GitHub Repo Structure
 * Turner-Project-Writeup.pdf - Overview of Project
 * Podcast-Project-ER-Diagram.drawio.png - ER Diagram
