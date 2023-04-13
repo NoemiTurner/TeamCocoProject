@@ -1,6 +1,4 @@
-# CPSC 321 Final Project
-### Fall 2022
-### Gonzaga University
+# Database Management Project and Web Application
 ### Developer: Noemi Turner
 
 **References:** My project is inspired by the website: https://teamcoco.com/. The data and images from I borrowed from the website were used for education purposes only. 
