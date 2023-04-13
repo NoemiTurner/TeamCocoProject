@@ -1,8 +1,7 @@
-# Database Management Project and Web Application
+# Database Management and Web Application Project
 ### Developer: Noemi Turner
-### Description: This was originally part of my final project for CPSC 321 at Gonzaga University, but I've started to continue developing it further.
 
-**References:** My project is inspired by the website: https://teamcoco.com/. The data and images from I borrowed from the website were used for education purposes only. 
+**References:** My project is inspired by the website: https://teamcoco.com/. The data and images from I borrowed from the website were used for education and learning purposes only. 
 
 ## GitHub Repo Structure
 * Podcast-Project-ER-Diagram.drawio.png - ER Diagram
